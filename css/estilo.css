@@ -1,0 +1,35 @@
+.linha {
+    height: 500px;/*Altura da linha*/
+    border-left: 2px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+    border-top: none;
+  }
+
+  .todo{
+    display: flex;
+   
+  }
+
+  .esquerdo{
+    height: 100%;
+    width: 100%;
+    border-right: 1px solid black;
+    background-color: aqua;
+
+  }
+  .direito
+  {
+    height: 100%;
+    width: 100%;
+
+  
+  }
+  .texto{
+    margin-top: 5px ;
+  }
+  .invisivel{
+    color: white;
+  }
+
+  .margenesquerda{
+    margin-: 10px;
+  }
